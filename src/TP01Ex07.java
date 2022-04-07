@@ -4,6 +4,7 @@ public class TP01Ex07 {
 
     public static void main(String[] args)
     {
+        //Nomes : Guilherme Pontes e Rodrigo Rebelo
         //7. Calcular e exibir a média geométrica de dois valores quaisquer que serão
         //digitados.
 

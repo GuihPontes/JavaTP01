@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class TP01Ex01 {
     public static void main(String[] args)
     {
-
+        //Nomes : Guilherme Pontes e Rodrigo Rebelo
         //1. Entrar via teclado com a base e a altura de um retângulo, calcular e exibir sua
         //área.
 

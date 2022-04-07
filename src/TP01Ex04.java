@@ -5,7 +5,7 @@ public class TP01Ex04 {
 
         public static void main(String[] args)
         {
-
+            //Nomes : Guilherme Pontes e Rodrigo Rebelo
             //A partir dos valores da base e altura de um triângulo, calcular e exibir sua área.
 
             Scanner ler = new Scanner(System.in);
