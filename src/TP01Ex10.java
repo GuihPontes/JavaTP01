@@ -4,8 +4,8 @@ public class TP01Ex10 {
 
     public static void main(String[] args)
     {
-
-    //10. Entrar via teclado com o valor de uma temperatura em graus Celsius, calcular e
+        //Nomes : Guilherme Pontes e Rodrigo Rebelo
+        //10. Entrar via teclado com o valor de uma temperatura em graus Celsius, calcular e
         //exibir sua temperatura equivalente em Fahrenheit.
 
         Scanner ler =  new Scanner(System.in);

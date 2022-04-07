@@ -2,8 +2,8 @@ import java.util.Scanner;
 public class TP01Ex06 {
     public static void main(String[] args)
     {
-
-    //6. Calcular e exibir a média aritmética de quatro valores quaisquer que serão
+        //Nomes : Guilherme Pontes e Rodrigo Rebelo
+        //6. Calcular e exibir a média aritmética de quatro valores quaisquer que serão
         //digitados.
         Scanner ler =  new Scanner(System.in);
         System.out.println("Entre com o primeiro valor : ");

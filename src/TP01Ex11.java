@@ -4,7 +4,8 @@ public class TP01Ex11 {
 
     public static void main(String[] args)
     {
-    //11. A partir do diâmetro de um círculo que será digitado, calcular e exibir sua área.
+        //Nomes : Guilherme Pontes e Rodrigo Rebelo
+        //11. A partir do diâmetro de um círculo que será digitado, calcular e exibir sua área.
 
         Scanner ler =  new Scanner(System.in);
         System.out.println("Entre com o diametro : ");
